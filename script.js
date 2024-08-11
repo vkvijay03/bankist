@@ -214,7 +214,7 @@ const displayUi = function (acc) {
 }
 
 const startLogOutTime = function () {
-  let time = 30;
+  let time = 120;
 
   // Call the time function in every second
   const timer = setInterval(() => {
